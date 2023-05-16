@@ -25,4 +25,7 @@ Try out the Solidity Template or the Foundry Template
 2. Make a fork of mainnet from the command line (you may need to setup an Infura or
 Alchemy account)
 3. Query the mainnet using the command line to retrieve a property such as latest block
-number.Is this valid solidity ?
+number.
+
+Is this valid solidity ?
+No, Internal type cannot be used for external function type

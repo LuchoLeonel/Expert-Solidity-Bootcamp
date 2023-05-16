@@ -17,6 +17,7 @@ Yes, if I send value when deploying the contract
     2. store the result at the next free memory location.
     3. (optional) write this again in opcodes
 5. Can you think of a situation where the opcode EXTCODECOPY is used ?
+When the contract is a factory and needs to create proxy contracts, they're all the same
 
 6. Complete the assembly exercises in this repo
 
