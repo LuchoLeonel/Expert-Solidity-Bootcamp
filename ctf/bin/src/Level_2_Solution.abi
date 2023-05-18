@@ -1,0 +1,1 @@
+[{"inputs":[{"internalType":"uint256[10]","name":"unsortedArray","type":"uint256[10]"}],"name":"solution","outputs":[{"internalType":"uint256[10]","name":"sortedArray","type":"uint256[10]"}],"stateMutability":"nonpayable","type":"function"}]
