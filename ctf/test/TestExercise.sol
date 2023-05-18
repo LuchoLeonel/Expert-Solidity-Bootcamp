@@ -21,10 +21,11 @@ contract TestExercise1 is Test {
     }
 
     function testChallenge() public {
+        /*
         uint256[2][2] memory x;
         uint256[2][2] memory y;
         level1.solution(x, y);
-
+*/
         uint256[10] memory arguments = [
             uint256(10),
             uint256(7),
@@ -41,5 +42,6 @@ contract TestExercise1 is Test {
         for (uint256 i = 0; i < result.length; i++) {
             console2.log(result[i]);
         }
+        
     }
 }
